@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Once More Again ～もう一度、抱きしめて～ feat. May J.（feat. May J.）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-01-06T16:42:29.441340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "07 once more again",
+      "artist": "美郷あき",
+      "has_synced": true,
+      "path": "select/01_07_once_more_again_美郷あき.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "once more again",
+      "artist": "Aki Misato",
+      "has_synced": true,
+      "path": "select/02_once_more_again_Aki_Misato.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Once More Again ~もう一度、抱きしめて~",
+      "artist": "LGYankees, May J.",
+      "has_synced": false,
+      "path": "select/pl_01_Once_More_Again_~もう一度、抱きしめて~_LGYankees,_May_J..txt"
+    }
+  ]
+}
