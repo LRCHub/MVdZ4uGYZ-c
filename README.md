@@ -1,4 +1,4 @@
-# LGYankees – Once More Again ～もう一度、抱きしめて～ feat. May J.
+# LGYankees – Once More Again ～もう一度、抱きしめて～ feat. May J.（feat. May J.）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
